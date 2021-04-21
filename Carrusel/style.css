@@ -1,0 +1,21 @@
+.a{
+    background-color: black;
+    color: white;
+    padding: 5 px;
+    border: white solid 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.a:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+.izq{
+    float: left;
+}
+
+.der{
+    float: right;
+}
